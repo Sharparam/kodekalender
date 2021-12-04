@@ -36,6 +36,8 @@ Svaret etter steg 11 ville vært `5,6`.
 
 # 4. Snailer's sailtrip
 
+_Translated by @TRGWII_
+
 The pirate snail Snailer is out on an adventure to find the sunken city of Snailantis.
 He found an old script that explained which pattern he has to sail in to find the historical city in the endless grid of the pacific.
 
