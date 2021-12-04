@@ -16,6 +16,7 @@ If you have these problems saved anywhere, please open a PR to add them!
  * [Day 1][kodekalender-archive-2021-01]
  * [Day 2][kodekalender-archive-2021-02]
  * [Day 3][kodekalender-archive-2021-03]
+ * [Day 4][kodekalender-archive-2021-04]
 
 ### [2020][kodekalender-archive-2020-start]
 
@@ -61,6 +62,7 @@ If a copy of the MPL was not distributed with this file, You can obtain one at h
 [kodekalender-archive-2021-01]: https://archive.md/QiJZ6
 [kodekalender-archive-2021-02]: https://archive.md/XUXFX
 [kodekalender-archive-2021-03]: https://archive.md/60bHQ
+[kodekalender-archive-2021-04]: https://archive.md/61NNQ
 
 [kodekalender-archive-2020-start]: https://archive.md/wUf2a
 [kodekalender-archive-2020-01]: https://archive.md/ts8Ov
