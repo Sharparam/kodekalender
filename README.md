@@ -11,6 +11,10 @@ The problem statements for each day are also available in the relevant folder in
 Any entries below that don't have links did not exist on the archive site.
 If you have these problems saved anywhere, please open a PR to add them!
 
+### [2024][kodekalender-archive-2024-start]
+
+ * [Day 1][kodekalender-archive-2024-01]
+
 ### [2021][kodekalender-archive-2021-start]
 
  * [Day 1][kodekalender-archive-2021-01]
@@ -47,7 +51,7 @@ If you have these problems saved anywhere, please open a PR to add them!
 
 ## License
 
-Solution code copyright &copy; 2021 by [Adam Hellberg][sharparam].
+Solution code copyright &copy; 2021-2024 by [Adam Hellberg][sharparam].
 
 Problem statements and input files copyright &copy; 2020-2021 by Knowit.
 
@@ -57,6 +61,9 @@ This Source Code Form is subject to the terms of the Mozilla Public License, v. 
 If a copy of the MPL was not distributed with this file, You can obtain one at http://mozilla.org/MPL/2.0/.
 
 [kodekalender]: https://julekalender.knowit.no/
+
+[kodekalender-archive-2024-start]: https://archive.ph/uwkMe
+[kodekalender-archive-2024-01]: https://archive.ph/Svx2b
 
 [kodekalender-archive-2021-start]: https://archive.md/UWmnX
 [kodekalender-archive-2021-01]: https://archive.md/QiJZ6
